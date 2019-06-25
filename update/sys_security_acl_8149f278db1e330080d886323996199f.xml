@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_362927_sample_ta_sampletable</description>
+        <name>x_362927_sample_ta_sampletable</name>
+        <operation display_value="create">create</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-25 08:33:28</sys_created_on>
+        <sys_id>8149f278db1e330080d886323996199f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_362927_sample_ta_sampletable</sys_name>
+        <sys_package display_value="Sample table" source="x_362927_sample_ta">ab09f238db1e330080d88632399619c9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sample table">ab09f238db1e330080d88632399619c9</sys_scope>
+        <sys_update_name>sys_security_acl_8149f278db1e330080d886323996199f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-25 08:33:28</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

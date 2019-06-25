@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="sampletable" language="en" table="x_362927_sample_ta_sampletable">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>sampletable</label>
+            <language>en</language>
+            <name>x_362927_sample_ta_sampletable</name>
+            <plural>sampletables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-25 08:33:28</sys_created_on>
+            <sys_id>cd49f278db1e330080d88632399619bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sampletable</sys_name>
+            <sys_package display_value="Sample table" source="x_362927_sample_ta">ab09f238db1e330080d88632399619c9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Sample table">ab09f238db1e330080d88632399619c9</sys_scope>
+            <sys_update_name>sys_documentation_x_362927_sample_ta_sampletable__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-25 08:33:28</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
